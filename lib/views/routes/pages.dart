@@ -1,11 +1,9 @@
-// ignore_for_file: constant_identifier_names, prefer_const_constructors
+
+// ignore_for_file: constant_identifier_names
 
 import 'package:flutter/material.dart';
-
 import 'package:get/get.dart';
-
-import '../../pages/welcome/binding.dart';
-import '../../pages/welcome/view.dart';
+import '../../pages/welcome/index.dart';
 import 'routes.dart';
 
 class AppPages {
@@ -18,7 +16,7 @@ class AppPages {
     
     GetPage(
       name: Routes.INITIAL,
-      page: () => WelcomePage(),
+      page: () => const WelcomePage(),
       binding: WelcomeBinding(),
     ),
     /*
