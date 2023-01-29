@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334221499773",
+    "project_id": "pogo-36ef1",
+    "storage_bucket": "pogo-36ef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334221499773:android:0b1a176e10c5b690b2c014",
+        "android_client_info": {
+          "package_name": "com.example.pogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334221499773-n7rfrb8d7ggkfac78b5g0fi5pasbpdfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh1ArV3lGrZm3GOwzM0cnN8lI2A5pF-fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334221499773-n7rfrb8d7ggkfac78b5g0fi5pasbpdfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

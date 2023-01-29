@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>334221499773-g9ij4mcbs1c5aithn9spulp8vfq44nu8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.334221499773-g9ij4mcbs1c5aithn9spulp8vfq44nu8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBowkodpPydPfYx2R3LgdpBcYvRwnbkGrg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>334221499773</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pogo</string>
+	<key>PROJECT_ID</key>
+	<string>pogo-36ef1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pogo-36ef1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:334221499773:ios:f972f6256d0fcad3b2c014</string>
+</dict>
+</plist>
