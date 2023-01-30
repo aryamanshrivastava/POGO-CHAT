@@ -4,6 +4,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import '../../pages/welcome/index.dart';
+import '../../pages/sign_in/index.dart';
 import 'routes.dart';
 
 class AppPages {
@@ -19,13 +20,12 @@ class AppPages {
       page: () => const WelcomePage(),
       binding: WelcomeBinding(),
     ),
-    /*
     GetPage(
-      name: AppRoutes.SIGN_IN,
-      page: () => SignInPage(),
+      name: Routes.SIGNIN,
+      page: () => const SignInPage(),
       binding: SignInBinding(),
     ),
-
+/*
     // check if needed to login or not
     GetPage(
       name: AppRoutes.Application,
